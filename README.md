@@ -5,7 +5,7 @@
 
 ###
 
-<h2 align="left">Eaí, de boa? Eu sou Dantas, Desenvolvedor de Software com ênfase em Java e SpringFramework e TS com React. Atuei em grandes projetos na área financeira como Bancos digitais e também Serviços Jurídicos para facilitar o registro de processos eletrônicos em cartórios e blockchains.<br>mas como? Desenvolvendo soluções escaláveis com APIS, mensageria, comunicação assíncrona e interfaces de usuário responsivas, funcionais e agradáveis.<br>Graduando em Análise de Sistemas , sou apaixonado por resolver problemas do dia a dia com Tecnologia!</h2>
+<h2 align="left">Eaí, de boa? Eu sou o Dantas, tenho 23 anos, sou de SP e sou Desenvolvedor de Software e resolvedor de problemas.<br>Graduando em Análise de Sistemas , sou apaixonado por resolver problemas do dia a dia com Tecnologia!</h2>
 
 ###
 
