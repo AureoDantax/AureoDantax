@@ -1,3 +1,10 @@
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQyeTVkaGFvN2pkb28xMHhyaGllZjJycWQ2OXBnbmE0djd0NncxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
+</div>
+<br clear="both">
+
+###
+
 <h2 align="left">Eaí, de boa? Eu sou Dantas, Desenvolvedor de Software com ênfase em Java e SpringFramework e TS com React. Atuei em grandes projetos na área financeira como Bancos digitais e também Serviços Jurídicos para facilitar o registro de processos eletrônicos em cartórios e blockchains.<br>mas como? Desenvolvendo soluções escaláveis com APIS, mensageria, comunicação assíncrona e interfaces de usuário responsivas, funcionais e agradáveis.<br>Graduando em Análise de Sistemas , sou apaixonado por resolver problemas do dia a dia com Tecnologia!</h2>
 
 ###
@@ -54,13 +61,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AureoDantax/AureoDantax/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AureoDantax/AureoDantax/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQyeTVkaGFvN2pkb28xMHhyaGllZjJycWQ2OXBnbmE0djd0NncxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
-</div>
 
 ###
