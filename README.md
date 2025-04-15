@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQyeTVkaGFvN2pkb28xMHhyaGllZjJycWQ2OXBnbmE0djd0NncxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
+</div>
+<br clear="both">
+
 <h2 align="left">Eaí, de boa? Eu sou o Dantas, tenho 23 anos, sou de SP e sou Desenvolvedor de Software, seja bem vindo(a).<br>Graduando em Análise de Sistemas , sou apaixonado por resolver problemas do dia a dia com Tecnologia! Busscando sempre me desafiar e aprender coisas novas, aqui você pode conhecer um pouco mais do meu trabalho e do que ando fazendo</h2>
 
 ###
@@ -62,13 +68,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AureoDantax/AureoDantax/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AureoDantax/AureoDantax/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGQyeTVkaGFvN2pkb28xMHhyaGllZjJycWQ2OXBnbmE0djd0NncxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif"  />
-</div>
 
 ###
