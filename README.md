@@ -4,7 +4,7 @@
 </div>
 <br clear="both">
 
-<h2 align="left">Eaí, de boa? Eu sou o Dantas, tenho 23 anos, sou de SP e sou Desenvolvedor de Software, seja bem vindo(a).<br>Graduando em Análise de Sistemas , sou apaixonado por resolver problemas do dia a dia com Tecnologia! Busscando sempre me desafiar e aprender coisas novas, aqui você pode conhecer um pouco mais do meu trabalho e do que ando fazendo</h2>
+<h2 align="left">Eaí, de boa? Eu sou o Dantas, tenho 23 anos, sou de SP e sou Desenvolvedor de Software, seja bem vindo(a).<br>Graduando em Análise de Sistemas, sou apaixonado por resolver problemas do dia a dia com Tecnologia! Busscando sempre me desafiar e aprender coisas novas, aqui você pode conhecer um pouco mais do meu trabalho e do que ando fazendo</h2>
 
 ###
 
